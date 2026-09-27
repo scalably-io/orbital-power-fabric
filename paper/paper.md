@@ -2,7 +2,7 @@
 
 ## A falsifiable model of orbital energy for AI, and exactly what must change before space wins
 
-*Pavle Lazić, ScalablyAI · report SR-2026-003 · v1.0 · 2026-09-27 · model and code: Apache-2.0 · text, data and figures: CC BY 4.0 · test-chip design files: CERN-OHL-P-2.0 · repository: https://github.com/scalably-io/orbital-power-fabric*
+*Pavle Lazić, ScalablyAI · report SR-2026-003 · v1.0 · 2026-09-27 · model and code: Apache-2.0 · text, data and figures: CC BY 4.0 · test-chip design files: CERN-OHL-P-2.0 · repository: https://github.com/scalably-io/orbital-power-fabric · archived code and data: https://doi.org/10.5281/zenodo.22998545*
 
 ---
 

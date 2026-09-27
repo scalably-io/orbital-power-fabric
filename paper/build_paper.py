@@ -56,8 +56,8 @@ V.update(alt_km=f(_alt / 1e3), mask=f(_mask), gate="10",   # gate = SYNTHESIS ga
          w_fp4=str(ev2.PAIRS["FP4"][0]), r_fp4=str(ev2.PAIRS["FP4"][1]), w_fp8=str(ev2.PAIRS["FP8"][0]), r_fp8=str(ev2.PAIRS["FP8"][1]),
          pue=f(sc.PUE, 2), ground_pv=f(sc.GROUND_PV * 100), lifecycles="10, 15 or 20")
 V["version"] = "v1.0"
-import datetime
-V["date"] = datetime.date.today().isoformat()
+V["date"] = "2026-09-27"             # release date, pinned so a rebuild on another day reproduces the same paper
+V["doi"] = "10.5281/zenodo.22998545"  # Zenodo archive of release v1.0.0 (concept DOI for all versions: 10.5281/zenodo.22998544)
 # --- A ---
 a_lo, a_hi = R["A"]["current"]
 V.update(a_lo15=f(a_lo), a_hi15=f(a_hi), a_once_lo=f(R["A_once"]["current"][0], 1), a_once_hi=f(R["A_once"]["current"][1], 1),

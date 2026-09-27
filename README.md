@@ -2,7 +2,11 @@
 
 **Should space power AI by sending energy down, or by hosting the GPUs? An open, falsifiable model. The answer: not yet, either way.**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22998544.svg)](https://doi.org/10.5281/zenodo.22998544)
+
 White paper: *Move the energy, not the data centre? A falsifiable model of orbital energy for AI, and exactly what must change before space wins*, by Pavle Lazić (ScalablyAI), report SR-2026-003: `paper/paper.md` (web: https://scalably.io/research/orbital-power-fabric).
+
+Archived on Zenodo: v1.0.0 is https://doi.org/10.5281/zenodo.22998545; https://doi.org/10.5281/zenodo.22998544 always resolves to the latest version.
 
 ## Built with AI, on purpose
 
