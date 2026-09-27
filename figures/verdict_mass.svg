@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 792" width="100%" role="img" aria-label="Launched mass per continuous kilowatt of AI load over 15 years. Orbital GPUs: 40-57 kg/kW. Microwave from LEO · today&#x27;s parts: 557.08 kg/kW; Microwave from LEO · NASA study chain: 285.34 kg/kW; Microwave from LEO · NASA-implied: 10.11 kg/kW; Microwave from GEO, 10 GW · today&#x27;s parts: 185.13 kg/kW; Microwave from GEO, 10 GW · NASA study chain: 94.82 kg/kW; Microwave from GEO, 10 GW · NASA-implied: 3.36 kg/kW; Mirrors · filed Earendil-1 · ideal receiver: 45.61 kg/kW; Mirrors · filed Earendil-1 · real solar farm: 230.73 kg/kW; Mirrors · flown ACS3 sail density · ideal receiver: 20.81 kg/kW; Mirrors · flown ACS3 sail density · real solar farm: 105.29 kg/kW; Mirrors · membrane + booms · ideal receiver: 1.30 kg/kW; Mirrors · membrane + booms · real solar farm: 6.55 kg/kW">
+<rect width="900" height="792" fill="#faf9f7"/>
+<text x="24" y="44" font-family="'Instrument Serif', Georgia, serif" font-size="27" fill="#0a0a09">What it costs to launch 1 kW of always-on AI</text>
+<text x="24" y="70" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#5a5a55">Launched kg per continuous kW over 15 years, log scale. Grey band: GPUs in orbit (SpaceX AI1-class).</text>
+<text x="24" y="88" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#5a5a55">Benefit of the doubt: ideal receiver spacing, no clouds, dawn-dusk sun, no storage. Mirrors live 1 year (as filed).</text>
+<rect x="628.1" y="120" width="17.5" height="570" fill="#9a978f" fill-opacity="0.22"><title>GPUs in orbit · current · 40.0–57.1 kg/kW over 15 y · R1-005, R1-012, R1-023</title></rect>
+<text x="636.8" y="114" text-anchor="middle" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5a5a55">GPUs in orbit 40–57</text>
+<line x1="334.0" y1="130" x2="334.0" y2="690" stroke="#e2dfd8" stroke-width="1"/>
+<text x="334.0" y="708" text-anchor="middle" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#5a5a55">0.1</text>
+<line x1="447.0" y1="130" x2="447.0" y2="690" stroke="#e2dfd8" stroke-width="1"/>
+<text x="447.0" y="708" text-anchor="middle" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#5a5a55">1</text>
+<line x1="560.0" y1="130" x2="560.0" y2="690" stroke="#e2dfd8" stroke-width="1"/>
+<text x="560.0" y="708" text-anchor="middle" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#5a5a55">10</text>
+<line x1="673.1" y1="130" x2="673.1" y2="690" stroke="#e2dfd8" stroke-width="1"/>
+<text x="673.1" y="708" text-anchor="middle" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#5a5a55">100</text>
+<line x1="786.1" y1="130" x2="786.1" y2="690" stroke="#e2dfd8" stroke-width="1"/>
+<text x="786.1" y="708" text-anchor="middle" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#5a5a55">1000</text>
+<text x="570.0" y="728" text-anchor="middle" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5a5a55">kg launched per continuous kW, 15 years  ·  ← lighter than orbital GPUs   heavier →</text>
+<text x="284" y="162" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Microwave from LEO · today&#x27;s parts</text>
+<line x1="300" y1="158" x2="840" y2="158" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="757.4" cy="158" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Microwave from LEO · today&#x27;s parts · 557.08 kg/kW over 15 y · R2-093 median ROSA wing, R2-043 JAXA GaN tx, R2-042 chain</title></circle>
+<text x="770.4" y="162" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">557</text>
+<text x="284" y="208" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Microwave from LEO · NASA study chain</text>
+<line x1="300" y1="204" x2="840" y2="204" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="724.5" cy="204" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Microwave from LEO · NASA study chain · 285.34 kg/kW over 15 y · R2-093 OPAL best wing, R2-043, R2-011/R2-003 NASA chain</title></circle>
+<text x="737.5" y="208" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">285</text>
+<text x="284" y="254" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Microwave from LEO · NASA-implied</text>
+<line x1="300" y1="250" x2="840" y2="250" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="560.6" cy="250" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Microwave from LEO · NASA-implied · 10.11 kg/kW over 15 y · R2-018 NASA-implied whole system (mean of 938/909), R2-011</title></circle>
+<text x="573.6" y="254" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">10.1</text>
+<text x="284" y="300" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Microwave from GEO, 10 GW · today&#x27;s parts</text>
+<line x1="300" y1="296" x2="840" y2="296" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="703.3" cy="296" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Microwave from GEO, 10 GW · today&#x27;s parts · 185.13 kg/kW over 15 y · R2-093 median ROSA wing, R2-043 JAXA GaN tx, R2-042 chain, 15-y life R12-022, transmitter sized by power D20</title></circle>
+<text x="716.3" y="300" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">185</text>
+<text x="284" y="346" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Microwave from GEO, 10 GW · NASA study chain</text>
+<line x1="300" y1="342" x2="840" y2="342" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="670.5" cy="342" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Microwave from GEO, 10 GW · NASA study chain · 94.82 kg/kW over 15 y · R2-093 OPAL best wing, R2-043, R2-011/R2-003 NASA chain, 15-y life R12-022, transmitter sized by power D20</title></circle>
+<text x="683.5" y="346" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">94.8</text>
+<text x="284" y="392" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Microwave from GEO, 10 GW · NASA-implied</text>
+<line x1="300" y1="388" x2="840" y2="388" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="506.5" cy="388" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Microwave from GEO, 10 GW · NASA-implied · 3.36 kg/kW over 15 y · R2-018 NASA-implied whole system (mean of 938/909), R2-011, 15-y life R12-022, transmitter sized by power D20</title></circle>
+<text x="519.5" y="392" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">3.36</text>
+<text x="284" y="438" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Mirrors · filed Earendil-1 · ideal receiver</text>
+<line x1="300" y1="434" x2="840" y2="434" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="634.5" cy="434" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Mirrors · filed Earendil-1 · ideal receiver · 45.61 kg/kW over 15 y · R1-112 142 kg / R1-113 324 m2 (Earendil-1 filed system), 1-y life R1-115, fully covered 30% PV receiver</title></circle>
+<text x="647.5" y="438" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">45.6</text>
+<text x="284" y="484" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Mirrors · filed Earendil-1 · real solar farm</text>
+<line x1="300" y1="480" x2="840" y2="480" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="714.1" cy="480" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Mirrors · filed Earendil-1 · real solar farm · 230.73 kg/kW over 15 y · R1-112 142 kg / R1-113 324 m2 (Earendil-1 filed system), 1-y life R1-115, real tracking farm 5.9% of site light R5-077</title></circle>
+<text x="727.1" y="484" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">231</text>
+<text x="284" y="530" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Mirrors · flown ACS3 sail density · ideal receiver</text>
+<line x1="300" y1="526" x2="840" y2="526" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="596.0" cy="526" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Mirrors · flown ACS3 sail density · ideal receiver · 20.81 kg/kW over 15 y · R1-151 ACS3 flown spacecraft ~16 kg / 80 m2 (sail, not a mirror), 1-y life R1-115, fully covered 30% PV receiver</title></circle>
+<text x="609.0" y="530" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">20.8</text>
+<text x="284" y="576" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Mirrors · flown ACS3 sail density · real solar farm</text>
+<line x1="300" y1="572" x2="840" y2="572" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="675.6" cy="572" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Mirrors · flown ACS3 sail density · real solar farm · 105.29 kg/kW over 15 y · R1-151 ACS3 flown spacecraft ~16 kg / 80 m2 (sail, not a mirror), 1-y life R1-115, real tracking farm 5.9% of site light R5-077</title></circle>
+<text x="688.6" y="576" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">105</text>
+<text x="284" y="622" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Mirrors · membrane + booms · ideal receiver</text>
+<line x1="300" y1="618" x2="840" y2="618" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="459.7" cy="618" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Mirrors · membrane + booms · ideal receiver · 1.30 kg/kW over 15 y · R1-149 membrane + R1-150 4 booms, no deployer/bus, 1-y life R1-115, fully covered 30% PV receiver</title></circle>
+<text x="472.7" y="622" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">1.3</text>
+<text x="284" y="668" text-anchor="end" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#0a0a09">Mirrors · membrane + booms · real solar farm</text>
+<line x1="300" y1="664" x2="840" y2="664" stroke="#e2dfd8" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="539.3" cy="664" r="7" fill="#00c896" stroke="#faf9f7" stroke-width="3"><title>Mirrors · membrane + booms · real solar farm · 6.55 kg/kW over 15 y · R1-149 membrane + R1-150 4 booms, no deployer/bus, 1-y life R1-115, real tracking farm 5.9% of site light R5-077</title></circle>
+<text x="552.3" y="668" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#0a0a09">6.55</text>
+<text x="876" y="778" text-anchor="end" font-family="'JetBrains Mono', Menlo, monospace" font-size="11" fill="#5a5a55">scalably<tspan fill="#00c896">.</tspan>io · orbital-power-fabric</text>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "title": "Orbital Power Fabric: a falsifiable model of orbital energy for AI",
+  "upload_type": "software",
+  "creators": [{"name": "Lazić, Pavle", "affiliation": "ScalablyAI"}],
+  "license": "Apache-2.0",
+  "keywords": ["space-based solar power", "orbital data centres", "power beaming", "orbital mirrors", "photonic computing", "AI energy"],
+  "description": "Open, reproducible model and quote-per-claim evidence ledger comparing GPUs in orbit, microwave beaming, orbital mirrors and ground solar for AI, plus a resident-weight photonic inference analysis and an open photonic test-chip layout. Built with AI agents; see README."
+}

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this model or data, please cite it."
+title: "Orbital Power Fabric: a falsifiable model of orbital energy for AI"
+version: "1.0.0"
+date-released: "2026-09-27"
+license: Apache-2.0
+repository-code: "https://github.com/scalably-io/orbital-power-fabric"
+url: "https://scalably.io/research/orbital-power-fabric"
+authors:
+  - family-names: "Lazić"
+    given-names: "Pavle"
+    affiliation: "ScalablyAI"
+keywords: [space-based solar power, orbital data centres, power beaming, orbital mirrors, photonic computing, AI energy]

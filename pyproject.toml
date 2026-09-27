@@ -1,0 +1,22 @@
+[project]
+name = "opf"
+version = "0.1.0"
+description = "Orbital Power Fabric: open, reproducible model comparing orbital AI compute against orbital energy delivery to terrestrial AI"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+dependencies = ["numpy>=1.26", "scipy>=1.11", "matplotlib>=3.8"]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+chip = ["cspdk==1.4.5"]   # pins gdsfactory 9.45.0; only for chip/ (layout, net check, render)
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["opf"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
